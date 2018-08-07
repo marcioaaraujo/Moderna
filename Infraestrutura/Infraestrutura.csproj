@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Banco\Mapeamento\" />
-    <Folder Include="Ioc\" />
     <Folder Include="Migrations\" />
     <Folder Include="Repositorio\" />
     <Folder Include="Servicos\" />
